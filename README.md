@@ -1,0 +1,1 @@
+# jenkins__gitTrail
